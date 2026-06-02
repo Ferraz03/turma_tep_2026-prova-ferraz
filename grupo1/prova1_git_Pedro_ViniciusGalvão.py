@@ -54,7 +54,7 @@ def listar_arquivos_alterados(commits: list) -> list:
 #  cadastrar_aluno("matricula", "nome", "sobrenome")
 # ============================================================
 
-cadastrar_aluno("", "", "")
+cadastrar_aluno("2026111510441", "Pedro", "Vinicius Galvão")
 
 # ============================================================
 #  NÃO ALTERE O CÓDIGO ABAIXO
